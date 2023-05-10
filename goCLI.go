@@ -52,7 +52,7 @@ func main() {
 
 		/*
 		   ******************************************
-		   Step 4: Implement checkinfyconnect command
+		   Step 4: Implement goping command
 		   ******************************************
 		   Toolkit:
 		   Package-strings|Function-Split|Output Variable-commandString
